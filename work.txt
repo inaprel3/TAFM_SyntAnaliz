@@ -1,0 +1,1 @@
+"letters""numbers""loop""OR""AND""WHERE""INTERSECT""UNION""("")""[""]"",""$"
